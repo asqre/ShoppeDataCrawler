@@ -1,6 +1,5 @@
 # Shoppee Scraper using Selenium in Python
 
-```markdown
 ## Overview
 
 This Python script enables you to efficiently extract product reviews from specified URLs using Selenium. The scraped reviews are stored as text data, ready for further analysis or storage.
@@ -40,7 +39,6 @@ To get started, install all dependencies using pip:
 
 ```shell
 pip install selenium
-```
 
 ### Configuration
 

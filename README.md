@@ -1,6 +1,7 @@
 # Shoppee Scraper using Selenium in python 
 
 This Python script allows you to scrape reviews from a specified URL using Selenium. The extracted reviews are stored as text data for further analysis or storage.
+
 Fields that will be retrieved are: 'Radarly pid", "Radarly corpusId", "Radarly corpusName", "Product_Name", "Product_url",  "Status", "Name", "Customer_Profile_Url", "Rating", "TimeStamps", "Review", "Media_Url", "Likes", "Id".
  
 #### Fair Warning
@@ -17,11 +18,10 @@ pip install selenium
 ```
 
 # Windows
-py amzreviewscrape.py --asins="C:\PATH\TO\ASINS\FILE.CSV" --driverpath="C:\PATH\TO\CHROMEDRIVER"
+Replace `path/to/chromedriver` with `"C:\\Users\\VICTUS\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe"`
 
 # Mac OSx/Linux
-py amzreviewscrape.py --asins="/path/to/asins/csv" --driverpath="/path/to/chromedriver"
-To pass additional options to chromedriver such as:
+Replace `path/to/chromedriver` with `"C:/Users/VICTUS/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"`
 
 ## Example Data Format
 
@@ -113,5 +113,5 @@ git push origin feature/your-feature-name
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 

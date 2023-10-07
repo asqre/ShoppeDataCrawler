@@ -28,7 +28,6 @@ To pass additional options to chromedriver such as:
 ![output][screenshot]
 ![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/ccc08a46-b316-4009-8e1d-775fd42fc903)
 
-[screenshot]: https://github.com/aflansburg/amzreviewsscrape/blob/master/scrape-output.png 'CSV Output Screen Shot'
 
 
 Certainly! Here's an example of a README.md file for your GitHub repository for the project that scrapes historical reviews from a website using Python and Selenium:

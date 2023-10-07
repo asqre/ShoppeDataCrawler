@@ -23,9 +23,9 @@ py amzreviewscrape.py --asins="/path/to/asins/csv" --driverpath="/path/to/chrome
 To pass additional options to chromedriver such as:
 
 
+
 #### The CSV Output currently looks like:
 
-![output][screenshot]
 ![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/ccc08a46-b316-4009-8e1d-775fd42fc903)
 
 

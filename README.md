@@ -23,7 +23,30 @@ py amzreviewscrape.py --asins="C:\PATH\TO\ASINS\FILE.CSV" --driverpath="C:\PATH\
 py amzreviewscrape.py --asins="/path/to/asins/csv" --driverpath="/path/to/chromedriver"
 To pass additional options to chromedriver such as:
 
+## Example Data Format
 
+### The JSON Output looks like 
+```json
+ {
+        "Radarly pid": 6127,
+        "Radarly corpusId": 64143,
+        "Radarly corpusName": "Feminine Care",
+        "Product_Name": "New tide rimless sunglasses ladies fashion all-match UV protection sunscreen sunshade sunglasses",
+        "Product_url": "https://shopee.com.my/New-tide-rimless-sunglasses-ladies-fashion-all-match-UV-protection-sunscreen-sunshade-sunglasses-i.992975877.23941383249?sp_atk=c1860b1e-55b1-445d-86a6-ff85b3d50752&xptdk=c1860b1e-55b1-445d-86a6-ff85b3d50752",
+        "Status": "Historical",
+        "Name": "teodorabermido",
+        "Customer_Profile_Url": "https://shopee.com.my/shop/128476722",
+        "Rating": 5,
+        "TimeStamps": "Philippines | 2023-08-22 15:49",
+        "Review": "",
+        "Media_Url": [
+            "https://play-ws.vod.shopee.com/api/v4/11110103/mms/ph-11110103-6ke14-lkqktwtbv9vv57.default.mp4",
+            "https://down-ws-in.img.susercontent.com/ph-11134103-7r98o-lkqktcm3fhbz5d.webp"
+        ],
+        "Likes": "1",
+        "Id": ""
+    },
+```
 
 #### The CSV Output currently looks like:
 
@@ -58,11 +81,6 @@ pip install selenium
 
 2. Modify the `url` variable in the code to point to the webpage you want to scrape reviews from.
 
-3. Run the script:
-
-```shell
-python scrape_reviews.py
-```
 
 4. The extracted reviews will be printed to the console and stored in the `historical_reviews.txt` file.
 

@@ -1,5 +1,6 @@
 # Shoppee Scraper using Selenium in python 
 
+This Python script allows you to scrape reviews from a specified URL using Selenium. The extracted reviews are stored as text data for further analysis or storage.
 Fields that will be retrieved are: 'Radarly pid", "Radarly corpusId", "Radarly corpusName", "Product_Name", "Product_url",  "Status", "Name", "Customer_Profile_Url", "Rating", "TimeStamps", "Review", "Media_Url", "Likes", "Id".
  
 #### Fair Warning
@@ -30,17 +31,6 @@ To pass additional options to chromedriver such as:
 
 
 ```markdown
-# Historical Reviews Scraper
-
-This Python script allows you to scrape historical reviews from a specified URL using Selenium. The extracted reviews are stored as text data for further analysis or storage.
-
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -55,19 +45,11 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/historical-reviews-scraper.git
+git clone git@github.com:asqre/ShoppeDataCrawler.git
 ```
 
-2. Navigate to the project directory:
-
 ```shell
-cd historical-reviews-scraper
-```
-
-3. Install the required Python packages:
-
-```shell
-pip install -r requirements.txt
+pip install selenium
 ```
 
 ## Usage
@@ -115,4 +97,3 @@ git push origin feature/your-feature-name
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-You can customize this README to include more specific information about your project, such as additional features, usage examples, or any other relevant details.

@@ -8,7 +8,7 @@ Web scraping is not an exact science at times, so if a web page's structure chan
 #### Debugging Tip
 If you're running/testing and having errors, your chromedriver process is likely still running so make sure to Force quit or kill the process in your OS task/process manager.
 
-#### Setup with pipenv
+#### Setup with selenium
 Install all dependencies from the `selenium`
 
 ```
@@ -28,9 +28,6 @@ To pass additional options to chromedriver such as:
 
 ![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/ccc08a46-b316-4009-8e1d-775fd42fc903)
 
-
-
-Certainly! Here's an example of a README.md file for your GitHub repository for the project that scrapes historical reviews from a website using Python and Selenium:
 
 ```markdown
 # Historical Reviews Scraper

@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 - Python: Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 - Selenium: Install the Selenium library using `pip` by running `pip install selenium`.
 - WebDriver: You'll need a WebDriver compatible with your browser (e.g., Chrome WebDriver). Download and configure it according to your system. You can download Chrome WebDriver [here](https://sites.google.com/chromium.org/driver/).
-
+```
 ## Installation
 
 1. Clone the repository:

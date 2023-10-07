@@ -39,6 +39,7 @@ To get started, install all dependencies using pip:
 
 ```shell
 pip install selenium
+```
 
 ### Configuration
 
@@ -83,6 +84,11 @@ The JSON output is structured as follows:
     "Id": ""
 }
 ```
+
+#### The CSV Output currently looks like:
+
+![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/ccc08a46-b316-4009-8e1d-775fd42fc903)
+
 
 ## Prerequisites
 

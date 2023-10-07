@@ -1,6 +1,6 @@
-```markdown
 # Shoppee Scraper using Selenium in Python
 
+```markdown
 ## Overview
 
 This Python script enables you to efficiently extract product reviews from specified URLs using Selenium. The scraped reviews are stored as text data, ready for further analysis or storage.
@@ -86,6 +86,12 @@ The JSON output is structured as follows:
 }
 ```
 
+#### The CSV Output currently looks like:
+
+![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/ccc08a46-b316-4009-8e1d-775fd42fc903)
+![image](https://github.com/asqre/ShoppeDataCrawler/assets/62792214/1f2f5592-0d54-44aa-84c3-762cd924fcfd)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following requirements in place:
@@ -154,6 +160,3 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```
-
-Feel free to use and modify this improved README for your GitHub repository.

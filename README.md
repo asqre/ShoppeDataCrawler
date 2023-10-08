@@ -128,7 +128,7 @@ Before you begin, ensure you have the following requirements in place:
 
 4. The extracted reviews will be displayed in the console and saved in the `historical_reviews.txt` file.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! To contribute to this project, follow these steps:
 

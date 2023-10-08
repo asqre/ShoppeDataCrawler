@@ -23,10 +23,6 @@ The following data fields will be retrieved:
 - Likes
 - Id
 
-## Fair Warning
-
-Web scraping can be a challenging endeavor due to the dynamic nature of web pages. If the structure of a webpage changes or elements like classes or attributes are modified, this code may break. While this repository could benefit from additional robustness and thoughtful design, it currently serves its purpose.
-
 ## Debugging Tip
 
 If you encounter errors while running or testing the code, it's possible that the chromedriver process is still running. Be sure to force quit or terminate the process using your OS task or process manager.

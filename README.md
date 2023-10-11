@@ -37,6 +37,12 @@ To get started, install all dependencies using pip:
 pip install selenium
 ```
 
+To read the xlsx excel file, you need to install openpyxl. also, required for working with excel file in python.
+
+```shell
+pip install openpyxl
+```
+
 ### Configuration
 
 #### Windows

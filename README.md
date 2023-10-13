@@ -102,6 +102,7 @@ Before you begin, ensure you have the following requirements in place:
 
   ```shell
   pip install selenium
+  pip install pandas
   ```
 
 - **WebDriver:** You'll need a WebDriver compatible with your browser (e.g., Chrome WebDriver). Download and configure it according to your system. You can download Chrome WebDriver [here](https://sites.google.com/chromium.org/driver/).

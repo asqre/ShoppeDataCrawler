@@ -1,0 +1,139 @@
+{
+    "error": 0,
+    "error_msg": null,
+    "data": {
+        "ratings": [
+            {
+                "orderid": 121838235198839,
+                "itemid": 11118826864,
+                "cmtid": 10118799981,
+                "ctime": 1669032123,
+                "rating": -1,
+                "userid": 281040,
+                "shopid": 9241878,
+                "comment": "沒有收到商品",
+                "rating_star": 1,
+                "status": 2,
+                "mtime": 1694524716,
+                "editable": 0,
+                "opt": 2,
+                "filter": 1,
+                "mentioned": [],
+                "is_hidden": false,
+                "can_follow_up": null,
+                "follow_up": null,
+                "author_username": "e*****n",
+                "author_portrait": "829b8fad7d1ecd6a23004bd6e3f2bc69",
+                "author_shopid": 281031,
+                "anonymous": true,
+                "images": [],
+                "videos": [],
+                "product_items": [
+                    {
+                        "itemid": 11118826864,
+                        "shopid": 9241878,
+                        "name": "【Kotex 靠得住】茶樹舒涼棉(涼感衛生棉) 日用 23cm /夜用28cm 網路限定小箱購",
+                        "image": "c95b3df06af5614f7e59919d91efce79",
+                        "is_snapshot": 1,
+                        "snapshotid": 3988289978,
+                        "modelid": 87424686673,
+                        "model_name": "28cm(9片x4包+16片x2包)",
+                        "options": [
+                            "28cm(9片x4包+16片x2包)"
+                        ]
+                    }
+                ],
+                "delete_reason": null,
+                "delete_operator": null,
+                "ItemRatingReply": null,
+                "tags": null,
+                "editable_date": null,
+                "show_reply": null,
+                "like_count": 1,
+                "liked": null,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 1,
+                    "seller_service": 1,
+                    "delivery_service": 5,
+                    "driver_service": null
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "loyalty_info": null,
+                "template_tags": [],
+                "has_template_tag": false,
+                "sync_to_social_toggle": null,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "tw"
+                },
+                "is_repeated_purchase": false,
+                "display_variation_filter": null,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "viewed": null,
+                "show_view": null,
+                "sync_to_social_detail": null,
+                "profile": null,
+                "size_info_tags": null,
+                "size_info_abt": "",
+                "image_data": [],
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "super_reviewer_tag": [],
+                "is_newly_created": null,
+                "template_hints": null,
+                "template_tags_hints": null,
+                "region": "TW",
+                "original_item_info": {
+                    "itemid": 11118826864,
+                    "shopid": 9241878,
+                    "name": "【Kotex 靠得住】茶樹舒涼棉(涼感衛生棉) 23/28/35cm 網路限定小箱購",
+                    "image": "tw-11134207-7quky-lhh5ggmtezrke3"
+                },
+                "template_abt": null,
+                "is_repeat_edited": null,
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "item_cart_info": null
+            }
+        ],
+        "item_rating_summary": {
+            "rating_total": 896,
+            "rating_count": [
+                1,
+                0,
+                1,
+                20,
+                874
+            ],
+            "rcount_with_context": 222,
+            "rcount_with_image": 195,
+            "rcount_with_media": 195,
+            "rcount_local_review": 896,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 0,
+            "rcount_overall_fit_fit": 0,
+            "rcount_overall_fit_large": 0,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0
+        },
+        "is_sip_item": false,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+        "downgrade_switch": false,
+        "has_more": false,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "user_latest_rating": null,
+        "size_info_abt": "",
+        "top_ratings": [],
+        "resize_image_abt": false,
+        "purchase_bar_abt": "bucket_a",
+        "tag_filters": [],
+        "signature": ""
+    }
+}

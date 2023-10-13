@@ -1,0 +1,139 @@
+{
+    "data": {
+        "ratings": [
+            {
+                "orderid": 116352462267873,
+                "itemid": 17848374918,
+                "cmtid": 9550346900,
+                "ctime": 1663071549,
+                "rating": -1,
+                "userid": 14655455,
+                "shopid": 9241878,
+                "comment": "",
+                "rating_star": 1,
+                "status": 2,
+                "mtime": 1663071549,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "mentioned": [],
+                "is_hidden": false,
+                "can_follow_up": null,
+                "follow_up": null,
+                "author_username": "s*****9",
+                "author_portrait": "6a59c860b3367528c263b81a00c305a8",
+                "author_shopid": 14654151,
+                "anonymous": true,
+                "images": [],
+                "videos": [],
+                "product_items": [
+                    {
+                        "itemid": 17848374918,
+                        "shopid": 9241878,
+                        "name": "【Kotex 靠得住】冰爽護墊(極涼感護墊) 超薄加長型 17.5cm 26片x18包 箱購",
+                        "image": "806b539247c21db86664cd65d9fa8cea",
+                        "is_snapshot": 1,
+                        "snapshotid": 3837066181,
+                        "modelid": 116235441318,
+                        "model_name": "17.5cm 26片x18包",
+                        "options": [
+                            "17.5cm 26片x18包"
+                        ]
+                    }
+                ],
+                "delete_reason": null,
+                "delete_operator": null,
+                "ItemRatingReply": null,
+                "tags": null,
+                "editable_date": null,
+                "show_reply": null,
+                "like_count": null,
+                "liked": null,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 3,
+                    "seller_service": 1,
+                    "delivery_service": 3,
+                    "driver_service": null
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "loyalty_info": null,
+                "template_tags": [],
+                "has_template_tag": false,
+                "sync_to_social_toggle": null,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "tw"
+                },
+                "is_repeated_purchase": false,
+                "display_variation_filter": true,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "viewed": null,
+                "show_view": null,
+                "sync_to_social_detail": null,
+                "profile": null,
+                "size_info_tags": null,
+                "size_info_abt": "",
+                "image_data": [],
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "super_reviewer_tag": [],
+                "is_newly_created": null,
+                "template_hints": null,
+                "template_tags_hints": null,
+                "region": "TW",
+                "original_item_info": {
+                    "itemid": 17848374918,
+                    "shopid": 9241878,
+                    "name": "【Kotex 靠得住】冰爽護墊(極涼感護墊) 超薄加長型 17.5cm 26片x18包 箱購",
+                    "image": "806b539247c21db86664cd65d9fa8cea"
+                },
+                "template_abt": null,
+                "is_repeat_edited": null,
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "item_cart_info": null
+            }
+        ],
+        "item_rating_summary": {
+            "rating_total": 123,
+            "rating_count": [
+                1,
+                0,
+                0,
+                0,
+                122
+            ],
+            "rcount_with_context": 30,
+            "rcount_with_image": 23,
+            "rcount_with_media": 23,
+            "rcount_local_review": 123,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 0,
+            "rcount_overall_fit_fit": 0,
+            "rcount_overall_fit_large": 0,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0
+        },
+        "is_sip_item": false,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+        "downgrade_switch": false,
+        "has_more": false,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "user_latest_rating": null,
+        "size_info_abt": "",
+        "top_ratings": [],
+        "resize_image_abt": false,
+        "purchase_bar_abt": "bucket_a",
+        "tag_filters": [],
+        "signature": ""
+    },
+    "error": 0,
+    "error_msg": null
+}

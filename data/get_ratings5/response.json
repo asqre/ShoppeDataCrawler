@@ -1,0 +1,41 @@
+{
+    "error": 0,
+    "error_msg": null,
+    "data": {
+        "ratings": null,
+        "item_rating_summary": {
+            "rating_total": 29,
+            "rating_count": [
+                0,
+                0,
+                2,
+                0,
+                27
+            ],
+            "rcount_with_context": 7,
+            "rcount_with_image": 6,
+            "rcount_with_media": 6,
+            "rcount_local_review": 29,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 0,
+            "rcount_overall_fit_fit": 0,
+            "rcount_overall_fit_large": 0,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0
+        },
+        "is_sip_item": false,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_default,QUEUE:comment_search_default,NEWABTEST:0,QUEUES:comment_search_default",
+        "downgrade_switch": false,
+        "has_more": false,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "user_latest_rating": null,
+        "size_info_abt": "",
+        "top_ratings": [],
+        "resize_image_abt": false,
+        "purchase_bar_abt": "bucket_a",
+        "tag_filters": [],
+        "signature": ""
+    }
+}
